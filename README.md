@@ -15,6 +15,7 @@ The repository contains projects covering data analysis, machine learning, and P
 - Data Science Task 1 — Iris Flower Classification
 - Data Science Task 2 — Unemployment Analysis with Python
 - Data Science Task 3 — Car Price Prediction
+- Data Science Task 4 — Email Spam Detection
 
 ## Technologies
 
